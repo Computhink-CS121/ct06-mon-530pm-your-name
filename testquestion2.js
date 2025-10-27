@@ -9,11 +9,7 @@ function setup(){
     yPos = 100;
     textSize(20);
     
-    pokemons[1]
-    pokemons[2]
-    pokemons[3]
-    pokemons[4]
-     pokemons[5]
+    text(pika)
 }
 
 
