@@ -8,8 +8,12 @@ function setup(){
     // Task: set font size to 20 using textSize
     yPos = 100;
     textSize(20);
-    
-    text(pikachu)
+    text(sometime)
+    pokemons[1]
+    pokemons[2]
+    pokemons[3]
+    pokemons[4]
+     pokemons[5]
 }
 
 
