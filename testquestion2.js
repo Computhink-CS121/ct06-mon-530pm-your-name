@@ -8,7 +8,7 @@ function setup(){
     // Task: set font size to 20 using textSize
     yPos = 100;
     textSize(20);
-    text("pokemons[1]pokemons[2]pokemons[3]pokemons[4]pokemons[5]", 100, 150)
+    text("[Pikachu,Raichu,Bulbasaur,Mewtwo","Charizard", 100, 150)
    
 }
 
