@@ -9,7 +9,7 @@ function setup(){
     yPos = 100;
     textSize(20);
     
-    text(pika)
+    text(pikachu)
 }
 
 
