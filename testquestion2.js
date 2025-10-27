@@ -8,7 +8,7 @@ function setup(){
     // Task: set font size to 20 using textSize
     yPos = 100;
     textSize(20);
-    textAlign(vertical_alignment{})
+    textAlign(vertical_alignment[CENTER])
     pokemons[1]
     pokemons[2]
     pokemons[3]
